@@ -1,0 +1,220 @@
+
+标题 title
+请上传 Please Upload
+上传中 Uploading
+上传失败 Upload Failed
+ 
+请输入搜索关键词 Please Type ???? 
+年 Year
+月 Month
+日 Day
+
+日期格式有误 Wrong Date Format
+
+时间 Time ????
+
+
+您的保单已过期 Policy Expired
+暂未找到您的保单 No Policy Found
+尊敬的用户 Dear member????
+长按图片可保存 Tap & Hold to Save File
+思派直付 Medbanks Direct-billing ????
+派服务使用指南 User Guide
+暂无文件 No Files
+
+
+填写提示 Note
+您还有尚未填写的信息 Additional Information Unfilled
+ 
+姓名格式有误 Incorrect Format
+ 
+电话号码格式有误 Incorrect Format
+ 
+邮件地址格式有误 Incorrect Format
+ 
+城市格式有误 Incorrect Format
+
+谢谢您的咨询  Thank you for consultation.
+ 
+ 
+ 
+您输入的信息有误 Incorrect Information
+ 
+临时有事 Change of Plans
+暂不需要 No Longer Required
+其他原因 Other Reasons
+ 
+ 
+临时有事 Change of Plans
+暂不需要 No Longer Required
+
+需提前至少2个工作日取消 Please cancel at least 2 workdays in advance.
+请电话联系客服更改预约 Please contact your customer service team to change appointment.
+
+监护人信息 Guardian Information  
+监护人姓名 Guardian Name
+请选择性别 Gender
+请选择证件类型 ID Type
+与被保人关系 Relationship
+开户省 Province
+查询接口 ?????????
+未成年人获取主被保险人信息成功????? 
+请填写完整理赔申请信息  Please Complete Claim Information
+诊断名称字数至少为2 Minimum 4 Characters Required
+诊断名称不能包含特殊字符 Special Character Not Accepted 
+监护人姓名字数至少为2 Minimum 4 Characters Required
+监护人姓名不能包含特殊字符 Special Character Not Accepted 
+查看结案通知书 Check Explaination of Benefit
+确认取消申请单 Confirm to Cancel Application
+获取理赔详情  Check Claim Details
+元 ????
+
+
+暂无资料可以查看 ????
+资料不全说明 ????
+取消原因说明 Reason for Cancellation
+
+下载 Download
+结案通知书 Explaination of Benefit
+查看 View
+图片展示 ????
+已提交资料 Uploaded Files
+申请已处理 Claim Processed
+申请需补充材料 ????
+去取消理赔申请啦 ????
+取消申请成功 Cancelled ????
+补件说明 Note????
+诚信是保险的基本原则 ????
+刑事责任 ????
+行政责任 ????
+民事责任 ????
+本人声明 ????
+我授权任何医生 ????
+我完全理解 ????
+我同意委托宁波思派开源科技有限公司就本次理赔事宜作为我的代理人 ????
+理赔申请书 Claim Form
+模版生成理赔申请书 ????
+请阅读并勾选 please read and tick the box???
+提交成功 ????
+缺少理赔 ????
+数据丢失 ????
+列表请求 ????
+理赔列表数据查询成功 ????
+本次理赔申请范围仅限于医疗产品 ????
+本次理赔申请范围仅限于高端医疗产品 ????
+为了保证您能及时获得我们的服务 ????
+理赔申请过程需上传理赔资料影像 ????
+建议您先将资料拍照并保存在本地相册 ????
+请妥善保管您的资料原件 ????
+校验不通过 ????
+请填写出险日期????
+
+抱歉 Sorry
+请保管好理赔申请资料原件???? Please keep all claim documents in hand.  
+医疗账单 Medical Invoice
+医疗账单示例5 Medical Invoice Sample 5
+费用清单示例 Charge List Sample
+医疗文件 Medical Document
+出院记录示例 Discharge Summary Sample
+医保结算记录 Medical Insurance Settlement Record
+医保结算单示例3 Medical Insurance Settlement Record Sample 3
+出险人身份证明 Patient ID Certificate
+
+监护人身份证明 Guardian ID Certificate
+
+ 
+签名入参 ????
+签名成功 ????
+获取签名文件地址失败 ????
+数据不完整 ????
+
+
+
+就诊人姓名 Patient Name
+
+ 
+全麻手术 General Anesthesia Surgery
+购买 ???
+紧急医疗转运 Emergency Medical Evacuation 
+牙科意外治疗 Emergency Dental Treatment
+单剂超8000元药剂 Drug Exceed 8,000 RMB per Dose
+
+未知 ????
+就诊人不在承保期内 Not within policy effective date.
+您输入的信息有误 ????
+ 
+查询收藏的医院 View saved hospital
+查询未收藏的医院 ????
+
+
+银行数据查询成功 ???? 
+数据异常 ???? 
+医院数据查询成功 ????
+身份证正面 ID Card (Front)
+身份证背面 ID Card (Back)
+图片格式不支持 Format Not Accepted ????
+
+
+
+上传文件 Upload files
+
+您的意见与建议已收到 Well received your comments and suggestions
+ 
+ 
+中文 ????
+设置成功 
+以上 
+
+一类????? 
+二类 
+三类 
+四类 
+五类 
+六类 
+其他 
+一类 
+女 Female
+男 Male
+ 
+邮件地址格式有误 Incorrect Format
+联系电话格式有误 Incorrect Format
+职业格式有误 Incorrect format
+
+
+暂未找到有效订单信息,No valid order information has been found
+联系客服,Contract us
+您的资料, Basic information
+您的姓名, Name
+电话号码, Phone number
+邮箱地址,Email address
+所在城市，Location
+您想咨询的问题是, Question in details
+您是通过何种渠道了解思派的, How did you know about Medbanks
+立即提交, Submit now
+长按识别二维码关注我们, Follow us by long pressing the QR code
+公司名称,Company name
+门诊赔付比例,Coverage of Out-patient care
+自付案件信息, Details of Self-payment
+订单金额,Bill amount
+选择支付方式, Payment methods
+微信支付,WeChat Payment
+确认支付,Confirm the payment
+联系人电话,Contact number
+时间已经发生超过48小时,It has been occurred more than 48 hours till now
+查看示例图, Click image
+请输入医院名称进行搜索, Please enter the hospital/clinic name to search
+搜索开户银行????
+立即查看, View now
+测试用,????
+会员编号, Member ID
+保险计划, Policy plan
+有效期,Period of validity
+保单自付比例,Co-insurance
+年度免赔额,Deductible(Year)
+体检福利,Wellness benefits
+齿科福利,Dental benefits
+眼科福利,Vision benefits
+昂贵医院自付比例,High-cost-providers co-insurance
+您的家属当前暂无有效保单，快联系您的企业为家人添加保障吧～
+暂无失效保单 Temporary no invalid policy
+被保险人属性????
